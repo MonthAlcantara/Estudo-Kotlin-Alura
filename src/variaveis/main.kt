@@ -8,7 +8,7 @@ fun main() {
        O valor sim mas o tipo não ( No caso do Var)
     */
     var conta = 1000 // Int
-    var saldo: Double = 200.0
+    var saldo: Double = 200.0 // Nao precisa pois o Kotlin infere o tipo
 
     // Consigo concatenar variáveis e String usando o template $nomeDaVariavel
     println("bem vindo ao $kotlin")
