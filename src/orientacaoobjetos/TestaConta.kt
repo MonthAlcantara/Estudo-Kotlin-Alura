@@ -33,6 +33,11 @@ class Conta {
 }
 
 fun main() {
+    testaComportamentosConta()
+
+}
+
+fun testaComportamentosConta() {
     val contaMaria = Conta()
     contaMaria.conta = 1000
     contaMaria.saldo = 1000.0
@@ -55,7 +60,6 @@ fun main() {
 
     contaMaria.mostraSaldo()
     contaJoao.mostraSaldo()
-
 }
 
 
