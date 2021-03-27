@@ -25,3 +25,13 @@ K
 src/boaspraticas/Diretor.kt,7\6\762978e50d4094c81ed7045e9e3a933fbdf84e63
 K
 src/boaspraticas/Gerente.kt,a\5\a548b3fe6c2b81d2698e2f1178fa9b7bb2ae473d
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+E
+src/funcao/Funcoes.kt,a\c\ac0c152678e2d936ad74e00e81d22aa56ab0fab5
+O
+src/variaveis/TiposVariaveis.kt,9\e\9e1ad6be39659a179a46ce9fa26e445638ffcd71
+T
+$src/templatestring/TemplateString.kt,2\3\2396a5477a27907c37d745d23c3a22be626c7dbb
+U
+%src/safecalloperator/ChamadaSegura.kt,a\7\a7da65d84cf81edcf3dc323a7d240d548662103a
