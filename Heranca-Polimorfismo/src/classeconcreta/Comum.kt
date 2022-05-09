@@ -7,5 +7,5 @@ class Comum(
 ) : Funcionario(nome, cpf, salario) {
 
     override val bonificacao: Double
-        get() = super.bonificacao 
+        get() = super.bonificacao
 }
