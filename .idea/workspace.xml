@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad9bde85-0d51-4d65-822c-51592b430b92" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/monti.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/0569966bc029220382bc946e03813263b5316dd3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/3/2396a5477a27907c37d745d23c3a22be626c7dbb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/266026a5ecec5eaf989f9d8492befb168f4d4aab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/49c7d751bd0da0c6989ee76161de7ccef68b30f9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4ed8a9c0ff81efe6e953941dc0b1697f2b4d8dbc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6ecd6000a7b6f4a2884412ff19f74193ed089648" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/762978e50d4094c81ed7045e9e3a933fbdf84e63" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a05ce3bb1a9315b29a91cefaf432d9d0980371b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/e/9e1ad6be39659a179a46ce9fa26e445638ffcd71" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a548b3fe6c2b81d2698e2f1178fa9b7bb2ae473d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a621626009ff57c865ae5446facc07ab9e511140" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a7da65d84cf81edcf3dc323a7d240d548662103a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/ac0c152678e2d936ad74e00e81d22aa56ab0fab5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/ac2389a3b31401fff4c137cbd7563048a3d3bd84" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bbccc57cae2e79f3943e6cd4e6e89ee90e50233c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/d/dd7b3350c29c49497756c7f32c69a3bed18b1cba" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f685999b4d5ec0da889b87186e63339a7990c132" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estudo-Kotlin-Alura.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Estudo-Kotlin-Alura/META-INF/Estudo-Kotlin-Alura.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boaspraticas/Conta.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boaspraticas/Diretor.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boaspraticas/ElegivelBonus.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boaspraticas/Funcionario.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boaspraticas/Gerente.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boaspraticas/TestaComportamentosConta.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boaspraticas/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/funcao/Funcoes.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/orientacaoobjetos/TestaConta.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/properties/TestaContaProperties.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/safecalloperator/ChamadaSegura.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templatestring/TemplateString.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variaveis/TiposVariaveis.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variaveis/main.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="28sqz3YDKztMRCe9lE23syzeAid" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Orientacao-Objetos" />
+  </component>
+  <component name="RunManager" selected="Kotlin.TesteKt">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturas.MainKt" />
+      <module name="Estudo-Kotlin-Alura" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boaspraticas.TesteKt" />
+      <module name="Estudo-Kotlin-Alura" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.TesteKt" />
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad9bde85-0d51-4d65-822c-51592b430b92" name="Changes" comment="" />
+      <created>1652015900639</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652015900639</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
